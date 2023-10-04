@@ -1,1 +1,1 @@
-gino
+This repository has been made for exercise
